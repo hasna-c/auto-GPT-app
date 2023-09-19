@@ -41,4 +41,5 @@ By following these steps, you can leverage the power of this application to kick
 
 ## Demo
 
+![Auto GPT](demo.jpg)
 
