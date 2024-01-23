@@ -37,7 +37,8 @@ To use this application, you'll need an API key from OpenAI.
 3. **Review Generated Content**: After the content generation is complete, you will be presented with both a YouTube video title and a script. Take the time to review and consider the generated content.
 
 
-By following these steps, you can leverage the power of this application to kickstart your creative process and craft engaging YouTube video content.
+
+
 
 ## Demo
 
